@@ -1,0 +1,2 @@
+# BasicSeminar
+基礎ゼミ輪講で学んだ機械学習プログラミングのpythonコード
